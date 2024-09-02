@@ -7,4 +7,4 @@ Subjects are:
 3. Optimisation for computer science
 4. Design and analysis of algorithms
 5. Operating management
-
+6. CCCT (communication related)
